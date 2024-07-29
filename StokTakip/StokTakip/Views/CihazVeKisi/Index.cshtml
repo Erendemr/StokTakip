@@ -1,0 +1,28 @@
+﻿@model IEnumerable<StokTakip.Models.CihazKisiView>
+
+<h1>Cihazlar ve Kişiler</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Cihaz Adı</th>
+            <th>Modeli</th>
+            <th>Durumu</th>
+            <th>Kişi Ad Soyad</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.CihazAdi</td>
+                <td>@item.CihazModeli</td>
+                <td>@item.CihazDurumu</td>
+                <td>@item.KisiAdSoyad</td>
+                <td>@item.Email</td>
+                <td> <a asp-action="Delete" asp-route-id="@item.KisiId">Delete</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a href="@Url.Action("Create", "CihazVeKisi")" class="btn btn-primary">Yeni Cihaz ve Kişi Ekle</a>

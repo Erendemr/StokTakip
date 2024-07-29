@@ -1,0 +1,51 @@
+﻿@model StokTakip.Models.Cihaz
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Cihaz</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Cihaz Adi
+        </dt>
+        <dd class="col-sm-10">
+            @Model.CihazAdi
+        </dd>
+        <dt class="col-sm-2">
+            Cihaz Modeli
+        </dt>
+        <dd class="col-sm-10">
+            @Model.CihazModeli
+        </dd>
+        <dt class="col-sm-2">
+            Cihaz Durumu
+        </dt>
+        <dd class="col-sm-10">
+            @Model.CihazDurumu
+        </dd>
+        <dt class="col-sm-2">
+            Kisi Ad Soyad
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Kisi.AdSoyad
+        </dd>
+        <dt class="col-sm-2">
+            Email
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Kisi.Email
+        </dd>
+    </dl>
+
+    <form asp-action="DeleteConfirmed" method="post">
+        <input type="hidden" asp-for="CihazId" />
+        <button type="submit" class="btn btn-danger">Delete</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+    </form>
+</div>

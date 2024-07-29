@@ -1,0 +1,28 @@
+﻿@model IEnumerable<StokTakip.Models.Cihaz>
+
+<h1>Cihazlar</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Adı</th>
+            <th>Modeli</th>
+            <th>Durumu</th>
+            <th>Kişi Id</th>
+            <th>Kişi Adı</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var cihaz in Model)
+        {
+            <tr>
+                <td>@cihaz.CihazAdi</td>
+                <td>@cihaz.CihazModeli</td>
+                <td>@cihaz.CihazDurumu</td>
+                <td>@cihaz.KisiId</td>
+                <td>@cihaz.Kisi?.AdSoyad</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a href="@Url.Action("Create", "Cihaz")" class="btn btn-primary">Yeni Cihaz Ekle</a>
+<a href="@Url.Action("Edit", "Cihaz")" class="btn btn-primary">Düzenle</a>

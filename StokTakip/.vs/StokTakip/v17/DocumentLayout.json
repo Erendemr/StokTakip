@@ -1,0 +1,407 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|d:\\projeler\\c#\\yeni klas\u00F6r\\stoktakip\\stoktakip\\controllers\\cihazcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|solutionrelative:stoktakip\\controllers\\cihazcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|d:\\projeler\\c#\\yeni klas\u00F6r\\stoktakip\\stoktakip\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|solutionrelative:stoktakip\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|d:\\projeler\\c#\\yeni klas\u00F6r\\stoktakip\\stoktakip\\views\\kisi\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|solutionrelative:stoktakip\\views\\kisi\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|d:\\projeler\\c#\\yeni klas\u00F6r\\stoktakip\\stoktakip\\views\\kisi\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|solutionrelative:stoktakip\\views\\kisi\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|d:\\projeler\\c#\\yeni klas\u00F6r\\stoktakip\\stoktakip\\views\\kisi\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|solutionrelative:stoktakip\\views\\kisi\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|d:\\projeler\\c#\\yeni klas\u00F6r\\stoktakip\\stoktakip\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|solutionrelative:stoktakip\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|d:\\projeler\\c#\\yeni klas\u00F6r\\stoktakip\\stoktakip\\views\\cihazvekisi\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|solutionrelative:stoktakip\\views\\cihazvekisi\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|d:\\projeler\\c#\\yeni klas\u00F6r\\stoktakip\\stoktakip\\views\\cihaz\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|solutionrelative:stoktakip\\views\\cihaz\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|d:\\projeler\\c#\\yeni klas\u00F6r\\stoktakip\\stoktakip\\views\\cihaz\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|solutionrelative:stoktakip\\views\\cihaz\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|d:\\projeler\\c#\\yeni klas\u00F6r\\stoktakip\\stoktakip\\views\\cihaz\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|solutionrelative:stoktakip\\views\\cihaz\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|d:\\projeler\\c#\\yeni klas\u00F6r\\stoktakip\\stoktakip\\controllers\\cihazvekisicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|solutionrelative:stoktakip\\controllers\\cihazvekisicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|d:\\projeler\\c#\\yeni klas\u00F6r\\stoktakip\\stoktakip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|solutionrelative:stoktakip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|d:\\projeler\\c#\\yeni klas\u00F6r\\stoktakip\\stoktakip\\views\\cihazvekisi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|solutionrelative:stoktakip\\views\\cihazvekisi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|d:\\projeler\\c#\\yeni klas\u00F6r\\stoktakip\\stoktakip\\models\\cihaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|solutionrelative:stoktakip\\models\\cihaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|d:\\projeler\\c#\\yeni klas\u00F6r\\stoktakip\\stoktakip\\views\\kisi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|solutionrelative:stoktakip\\views\\kisi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|d:\\projeler\\c#\\yeni klas\u00F6r\\stoktakip\\stoktakip\\views\\cihazvekisi\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|solutionrelative:stoktakip\\views\\cihazvekisi\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|d:\\projeler\\c#\\yeni klas\u00F6r\\stoktakip\\stoktakip\\models\\kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|solutionrelative:stoktakip\\models\\kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|d:\\projeler\\c#\\yeni klas\u00F6r\\stoktakip\\stoktakip\\models\\cihazkisiview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|solutionrelative:stoktakip\\models\\cihazkisiview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|d:\\projeler\\c#\\yeni klas\u00F6r\\stoktakip\\stoktakip\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|solutionrelative:stoktakip\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|d:\\projeler\\c#\\yeni klas\u00F6r\\stoktakip\\stoktakip\\controllers\\kisicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|solutionrelative:stoktakip\\controllers\\kisicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|d:\\projeler\\c#\\yeni klas\u00F6r\\stoktakip\\stoktakip\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|solutionrelative:stoktakip\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|d:\\projeler\\c#\\yeni klas\u00F6r\\stoktakip\\stoktakip\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|solutionrelative:stoktakip\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|d:\\projeler\\c#\\yeni klas\u00F6r\\stoktakip\\stoktakip\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{395F9A5C-FB45-4632-BCB6-2A0129AD5781}|StokTakip\\StokTakip.csproj|solutionrelative:stoktakip\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Views\\Kisi\\Delete.cshtml",
+              "RelativeDocumentMoniker": "StokTakip\\Views\\Kisi\\Delete.cshtml",
+              "ToolTip": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Views\\Kisi\\Delete.cshtml",
+              "RelativeToolTip": "StokTakip\\Views\\Kisi\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T07:05:52.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Kisi.cs",
+              "DocumentMoniker": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Models\\Kisi.cs",
+              "RelativeDocumentMoniker": "StokTakip\\Models\\Kisi.cs",
+              "ToolTip": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Models\\Kisi.cs",
+              "RelativeToolTip": "StokTakip\\Models\\Kisi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T06:33:52.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\appsettings.json",
+              "RelativeDocumentMoniker": "StokTakip\\appsettings.json",
+              "ToolTip": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\appsettings.json",
+              "RelativeToolTip": "StokTakip\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-28T20:15:21.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Views\\Kisi\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StokTakip\\Views\\Kisi\\Edit.cshtml",
+              "ToolTip": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Views\\Kisi\\Edit.cshtml",
+              "RelativeToolTip": "StokTakip\\Views\\Kisi\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T19:25:01.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CihazKisiView.cs",
+              "DocumentMoniker": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Models\\CihazKisiView.cs",
+              "RelativeDocumentMoniker": "StokTakip\\Models\\CihazKisiView.cs",
+              "ToolTip": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Models\\CihazKisiView.cs",
+              "RelativeToolTip": "StokTakip\\Models\\CihazKisiView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T13:23:31.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Views\\Cihaz\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StokTakip\\Views\\Cihaz\\Edit.cshtml",
+              "ToolTip": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Views\\Cihaz\\Edit.cshtml",
+              "RelativeToolTip": "StokTakip\\Views\\Cihaz\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T12:54:55.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Views\\CihazVeKisi\\Delete.cshtml",
+              "RelativeDocumentMoniker": "StokTakip\\Views\\CihazVeKisi\\Delete.cshtml",
+              "ToolTip": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Views\\CihazVeKisi\\Delete.cshtml",
+              "RelativeToolTip": "StokTakip\\Views\\CihazVeKisi\\Delete.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T12:54:44.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cihaz.cs",
+              "DocumentMoniker": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Models\\Cihaz.cs",
+              "RelativeDocumentMoniker": "StokTakip\\Models\\Cihaz.cs",
+              "ToolTip": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Models\\Cihaz.cs",
+              "RelativeToolTip": "StokTakip\\Models\\Cihaz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T12:54:38.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StokTakip\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StokTakip\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T12:54:31.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "KisiController.cs",
+              "DocumentMoniker": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Controllers\\KisiController.cs",
+              "RelativeDocumentMoniker": "StokTakip\\Controllers\\KisiController.cs",
+              "ToolTip": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Controllers\\KisiController.cs",
+              "RelativeToolTip": "StokTakip\\Controllers\\KisiController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T12:53:15.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "StokTakip\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "StokTakip\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-27T19:28:02.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StokTakip\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "StokTakip\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T19:14:34.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CihazVeKisiController.cs",
+              "DocumentMoniker": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Controllers\\CihazVeKisiController.cs",
+              "RelativeDocumentMoniker": "StokTakip\\Controllers\\CihazVeKisiController.cs",
+              "ToolTip": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Controllers\\CihazVeKisiController.cs",
+              "RelativeToolTip": "StokTakip\\Controllers\\CihazVeKisiController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwBoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T19:06:02.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CihazController.cs",
+              "DocumentMoniker": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Controllers\\CihazController.cs",
+              "RelativeDocumentMoniker": "StokTakip\\Controllers\\CihazController.cs",
+              "ToolTip": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Controllers\\CihazController.cs*",
+              "RelativeToolTip": "StokTakip\\Controllers\\CihazController.cs*",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T19:04:22.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StokTakip\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StokTakip\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T18:56:48.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Program.cs",
+              "RelativeDocumentMoniker": "StokTakip\\Program.cs",
+              "ToolTip": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Program.cs",
+              "RelativeToolTip": "StokTakip\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T18:56:02.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StokTakip\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StokTakip\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T18:55:42.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Views\\CihazVeKisi\\Create.cshtml",
+              "RelativeDocumentMoniker": "StokTakip\\Views\\CihazVeKisi\\Create.cshtml",
+              "ToolTip": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Views\\CihazVeKisi\\Create.cshtml",
+              "RelativeToolTip": "StokTakip\\Views\\CihazVeKisi\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T18:55:10.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Views\\Kisi\\Create.cshtml",
+              "RelativeDocumentMoniker": "StokTakip\\Views\\Kisi\\Create.cshtml",
+              "ToolTip": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Views\\Kisi\\Create.cshtml",
+              "RelativeToolTip": "StokTakip\\Views\\Kisi\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T18:54:15.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Views\\Cihaz\\Create.cshtml",
+              "RelativeDocumentMoniker": "StokTakip\\Views\\Cihaz\\Create.cshtml",
+              "ToolTip": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Views\\Cihaz\\Create.cshtml",
+              "RelativeToolTip": "StokTakip\\Views\\Cihaz\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T18:53:57.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Views\\CihazVeKisi\\Index.cshtml",
+              "RelativeDocumentMoniker": "StokTakip\\Views\\CihazVeKisi\\Index.cshtml",
+              "ToolTip": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Views\\CihazVeKisi\\Index.cshtml",
+              "RelativeToolTip": "StokTakip\\Views\\CihazVeKisi\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T18:53:44.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Views\\Kisi\\Index.cshtml",
+              "RelativeDocumentMoniker": "StokTakip\\Views\\Kisi\\Index.cshtml",
+              "ToolTip": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Views\\Kisi\\Index.cshtml",
+              "RelativeToolTip": "StokTakip\\Views\\Kisi\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T18:53:35.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Views\\Cihaz\\Index.cshtml",
+              "RelativeDocumentMoniker": "StokTakip\\Views\\Cihaz\\Index.cshtml",
+              "ToolTip": "D:\\Projeler\\C#\\Yeni klas\u00F6r\\StokTakip\\StokTakip\\Views\\Cihaz\\Index.cshtml",
+              "RelativeToolTip": "StokTakip\\Views\\Cihaz\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T18:53:22.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

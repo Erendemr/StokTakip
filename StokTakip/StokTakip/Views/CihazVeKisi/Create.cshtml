@@ -1,0 +1,34 @@
+﻿@model StokTakip.Models.CihazKisiView
+
+@{
+    ViewData["Title"] = "Yeni Cihaz ve Kişi Ekle";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label asp-for="CihazAdi" class="control-label">Cihaz Adı</label>
+        <input asp-for="CihazAdi" class="form-control" />
+        <span asp-validation-for="CihazAdi" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="CihazModeli" class="control-label">Cihaz Modeli</label>
+        <input asp-for="CihazModeli" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="CihazDurumu" class="control-label">Cihaz Durumu</label>
+        <input asp-for="CihazDurumu" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="KisiAdSoyad" class="control-label">Kişi Adı Soyadı</label>
+        <input asp-for="KisiAdSoyad" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Email" class="control-label">Mail Adresi</label>
+        <input asp-for="Email" class="form-control" />
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Kaydet" class="btn btn-primary" />
+    </div>
+</form>

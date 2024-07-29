@@ -1,0 +1,21 @@
+﻿@model IEnumerable<StokTakip.Models.Kisi>
+
+<h1>Kişiler</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Ad Soyad</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var kisi in Model)
+        {
+            <tr>
+                <td>@kisi.AdSoyad</td>
+                <td>@kisi.Email</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a href="@Url.Action("Create", "Kisi")" class="btn btn-primary">Yeni Kişi Ekle</a>
